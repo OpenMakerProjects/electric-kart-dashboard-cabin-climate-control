@@ -1,0 +1,21 @@
+{
+  "id": 758,
+  "title": "Electric Kart Dashboard Cabin Climate Control",
+  "repository_slug": "electric-kart-dashboard-cabin-climate-control",
+  "category": "Smart Vehicles",
+  "platform": "Raspberry Pi",
+  "platform_family": "python",
+  "difficulty": "Intermediate",
+  "estimated_hours": 20,
+  "connectivity": "LoRa",
+  "components": [
+    "ultrasonic sensors",
+    "temperature sensor",
+    "GPS module"
+  ],
+  "scope": "Build a smart vehicles prototype that uses ultrasonic sensors, temperature sensor, GPS module to manage ventilation from cabin measurements. Include setup instructions, a circuit diagram, tested firmware, and sample output.",
+  "key_deliverable": "Cabin Climate Control demonstration with repeatable test steps",
+  "mode": "closed_loop_control",
+  "entrypoint": "src/main.py",
+  "roadmap_source": "openmaker-2100-project-roadmap.xlsx"
+}
